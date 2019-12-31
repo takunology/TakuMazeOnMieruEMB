@@ -1,4 +1,5 @@
-/***** Sample Program for MieruEMB System v1.1                    *****/
+/***** Maze Program for MieruEMB System v1.1                    *******/
+/***** Coding by Takunology and Nyabingo                        *******/
 /**********************************************************************/
 volatile char *e_vram = (char*)0x900000;
 volatile int  *e_time = (int *)0x80010c;
